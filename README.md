@@ -6,7 +6,7 @@ Lets you import Image Plane from external Image URL. I made this addon because w
 1. Download the python file
 2. Install it
 3. Look at the right hand of 3D Viewport where UI panels are and look for `Image Plane From URL` panel shown below and click on it
- ![This is an image](https://github.com/sougataghar477/Import-Image-Plane-From-URL/blob/main/urlImage.PNG?raw=true)
+ ![This is an image](https://github.com/sougataghar477/Import-Image-Plane-From-URL/blob/main/urlImage2.PNG?raw=true)
 5. Copy an image url from somewhere and then paste it in text box
 6. Click on the button below and you are good to go
 
