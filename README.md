@@ -1,5 +1,5 @@
 # Description
-Lets you import Image Plane from external Image URL. I made this addon because whenever I wanted to imported an image as plane for reference  , I had to download the image and then select the file . So I wanted to get rid of that . I am new to blender addon making/python , so it would be great if any of you can rectify or improve the code :).This addon is using Florian Meyer's [Import Image As Plane addon](https://github.com/sobotka/blender-addons/blob/master/io_import_images_as_planes.py) , so all credits go to him :) . I just sort  of modified it !
+Lets you import Image Plane from external Image URL. I made this addon because whenever I wanted to imported an image as plane for reference  , I had to download the image and then select the file . So I wanted to get rid of that . I am new to blender addon making/python , so it would be great if any of you can rectify or improve the code :).This addon is using Florian Meyer's [Import Image As Plane addon](https://github.com/sobotka/blender-addons/blob/master/io_import_images_as_planes.py) , so all credits go to him :) . I just sort  of modified it to suit my needs and maybe others !
 
 ## Installation
 1. [Download the file](https://cdn.discordapp.com/attachments/953852431651979304/953860587702591488/Image_Plane_From_URL.py)
