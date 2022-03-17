@@ -110,7 +110,6 @@ def register():
 def unregister():
     bpy.utils.unregister_class(LayoutDemoPanel)
     bpy.utils.unregister_class(MyOperator)
-    bpy.utils.unregister_class(MyOperator)
     del(bpy.types.Scene.string_prop)
 
 if __name__ == "__main__":
