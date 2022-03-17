@@ -3,10 +3,10 @@ Lets you import Image Plane from image url.I made this addon because whenever I 
 
 
 ## Usage
-1.Download the python file
-2.Install it
-3.Look at the right hand of 3D Viewport where UI panels are and look for `Image Plane From URL` panel and click on it
-4.Copy an image url from somewhere and then paste it in text box
+1. Download the python file
+2. Install it
+3. Look at the right hand of 3D Viewport where UI panels are and look for `Image Plane From URL` panel and click on it
+4. Copy an image url from somewhere and then paste it in text box
 5. Click on the button below and you are good to go
 
 ## Errors
