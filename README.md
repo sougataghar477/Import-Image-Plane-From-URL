@@ -3,7 +3,7 @@ Lets you import Image Plane from external Image URL. I made this addon because w
 
 
 ## Usage
-1. Download the python file
+1. [Download the python file](https://cdn.discordapp.com/attachments/953852431651979304/953852735139241984/Image_Plane_From_URL.py)
 2. Install it
 3. Look at the right hand of 3D Viewport where UI panels are and look for `Image Plane From URL` panel shown below and click on it
 4. ![This is an image](https://github.com/sougataghar477/Import-Image-Plane-From-URL/blob/main/urlImage2.PNG?raw=true)
