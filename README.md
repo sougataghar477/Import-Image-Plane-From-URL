@@ -13,4 +13,4 @@ Lets you import Image Plane from external Image URL. I made this addon because w
 4. Click on the button below and you are good to go
 
 ## Errors
-Sometimes there would be some images which may not be accesible due to security and server issues.If you see any image not showing up , now you know why . I will add an error alert soon ! 
+Sometimes there would be some images which may not be accesible due to security and server issues.If you see any image not showing up , now you know why . 
