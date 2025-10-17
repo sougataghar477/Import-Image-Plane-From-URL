@@ -92,8 +92,10 @@ class MyOperator(bpy.types.Operator):
 
         urllib.request.urlretrieve(bpy.context.scene.string_prop,filename_path)
         
-        bpy.ops.import_image.to_plane(files=[{"name":str(filename_path)}], directory=str(parentFolder))
-        
+        # bpy.ops.import_image.to_plane(files=[{"name":str(filename_path)}], directory=str(parentFolder))
+
+        bpy.ops.object.load_reference_image(filepath=str(parentFolder))
+
         print(filename_path)
 
 
